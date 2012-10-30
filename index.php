@@ -45,7 +45,7 @@ $singlePost = $blog->singlePost(1);
 				?>
 			</div>
 
-			<div id="singlePost>
+			<div id="singlePost">
 			
 			</div>
 		</div>
